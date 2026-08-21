@@ -32,6 +32,6 @@
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-### 🤝🏻 联系我 | Contact Me
-`https://cdn.jsdelivr.net/gh/O96u/uurani@refs/heads/master/js/jquery-3.2.1.min.js`
+### jsdelivr
+`https://cdn.jsdelivr.net/gh/O96u/O96u@refs/heads/master/js/jquery-3.2.1.min.js`
 
