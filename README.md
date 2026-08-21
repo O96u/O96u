@@ -33,6 +33,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ### Welcome
-Number of homepage visits：![:name](https://count.getloli.com/@muxui)
-[![访客IP信息卡片](https://my.ippure.com/v1/card)](https://ippure.com "点击查看IP信息")
+Number of homepage visits：
+<img src="https://count.getloli.com/@O96u" alt="O96u" />
 `https://cdn.jsdelivr.net/gh/O96u/O96u/js/jquery-3.2.1.min.js`
