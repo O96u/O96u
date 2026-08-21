@@ -2,7 +2,7 @@
 ## Hello GitHub Fans 👋
 
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/uurani/uurani/refs/heads/master/image/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/O96u/O96u/master/image/O96u.gif" />
 
 ### I'm Muxuico
 
@@ -32,6 +32,7 @@
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-### jsdelivr
+### Welcome
+Number of homepage visits：![:name](https://count.getloli.com/@muxui)
+[![访客IP信息卡片](https://my.ippure.com/v1/card)](https://ippure.com "点击查看IP信息")
 `https://cdn.jsdelivr.net/gh/O96u/O96u/js/jquery-3.2.1.min.js`
-
