@@ -33,5 +33,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ### 🤝🏻 联系我 | Contact Me
-`https://cdn.jsdelivr.net/gh/uurani/uurani@refs/heads/master/js/jquery-3.2.1.min.js`
+`https://cdn.jsdelivr.net/gh/O96u/uurani@refs/heads/master/js/jquery-3.2.1.min.js`
 
