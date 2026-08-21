@@ -4,7 +4,7 @@
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/O96u/O96u/master/image/O96u.gif" />
 
-### I'm Muxuico
+### I'm O96u
 
 - 🎓 A Computer Engineering Enthusiast & Open Source Advocate
 
